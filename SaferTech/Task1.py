@@ -58,7 +58,7 @@ try:
     print("Data inserted successfully!")
     print()
 
-    print("==============================================Join Condition======================================================")
+    print("Join Condition")
 
     country_name = input("Enter country name to apply join condition on that country name: ")
 
